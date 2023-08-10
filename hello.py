@@ -1,3 +1,3 @@
 import streamlit as st
-st.title("Hello World from Stramlit!!")
-st.write("versao 0.1")
+st.title("Hello World from Streamlit!!")
+st.write("versao 0.2")
