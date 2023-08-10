@@ -2,6 +2,9 @@
 
 VERSAO="0.1"
 
+## Download da imagem python
+docker pull python
+
 ## Cria a imagem base
 docker build -t st:base -f Dockerfile_base .
 
